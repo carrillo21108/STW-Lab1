@@ -1,2 +1,4 @@
 # STW-Lab1
-Laboratorio #1 del curso de STW
+💻 Laboratorio 1
+## Curso
+Sistemas y Tecnologías Web
